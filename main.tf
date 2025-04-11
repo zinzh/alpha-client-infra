@@ -1,7 +1,7 @@
-# Auto-generated main.tf for client instance using blueprint: AWS VPC Example
+# Auto-generated main.tf for client instance using blueprint: gsassine
 
-module "AWS VPC Example" {
-  source = "https://github.com/terraform-aws-modules/terraform-aws-vpc.git"
+module "gsassine" {
+  source = "https://github.com/zinzh/blueprint-test.git"
 
   # Variables are sourced from terraform.tfvars
 }
