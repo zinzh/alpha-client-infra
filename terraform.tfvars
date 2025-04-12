@@ -1,6 +1,8 @@
-cidr = "10.0.0.0/16"
+cidr = "10.0.0.0/161"
 
 create_vpc = true
 
-name = "test2"
+name = "rwar"
+
+test_list = ["10.0.0.0/16"]
 
