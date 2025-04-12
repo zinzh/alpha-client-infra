@@ -1,7 +1,8 @@
-# Auto-generated main.tf for client instance using blueprint: gsassine
+# Auto-generated main.tf for client instance using blueprint: blueprint-zinzh
 
-module "gsassine" {
-  source = "https://github.com/zinzh/blueprint-test.git"
+module "blueprint-zinzh" {
+  source  = "https://github.com/zinzh/blueprint-test.git"
+  version = "main"
 
   # Variables are sourced from terraform.tfvars
 }
