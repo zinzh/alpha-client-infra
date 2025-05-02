@@ -1,4 +1,4 @@
-cidr = "10.0.0.0/19"
+cidr = "10.0.0.0/20"
 
 create_vpc = true
 
